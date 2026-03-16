@@ -6,3 +6,5 @@ The main idea behind this project was to make a reliable system that can help em
 Here is an activity daigram to show the information
 
 ![Detailed Architecture](https://github.com/user-attachments/assets/17edbc2c-edbc-4cf1-9af0-4f8ebfa9d418)
+
+You can check our book chapter cited here: Ringe, Y. U., Sonar, P. R., Medhane, D. V., & Devane, S. R. (2023). An Employee Health Monitoring System Using Wireless Body Area Networks and Machine Learning. In Applied Computer Vision and Soft Computing with Interpretable AI (pp. 69-84). Chapman and Hall/CRC.
